@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/victorsantssz/">
     <img src="https://user-images.githubusercontent.com/108017025/175107969-04c538a2-47a5-433a-8bcb-c0b01fd04afd.png" height="40px" weight="40px">
   </a>
-  <a href="https://discord.com/users/818236451585654834">
-    <img style="position: relative; top: 100px" src="https://user-images.githubusercontent.com/108017025/175110980-59e65621-a6b7-4e90-ba6d-a87ffbd71c31.png" height="50px" weight="50px">
+  <a style="position: relative; top: 100px;" href="https://discord.com/users/818236451585654834">
+    <img src="https://user-images.githubusercontent.com/108017025/175110980-59e65621-a6b7-4e90-ba6d-a87ffbd71c31.png" height="50px" weight="50px">
   </a>
   <a href="https://twitter.com/victor_santssz/">
     <img src="https://user-images.githubusercontent.com/108017025/175107973-c8f7ef8d-5803-45ca-9cbe-c2268cbe35ea.png" height="40px" weight="35px">
